@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=VeinGuo&show_icons=true&icon_color=718096&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello world 😄
+
+- :orange_book: Developer
